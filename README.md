@@ -4,5 +4,5 @@
 从文件中进去，选择首选项中的附加开发板管理器网址：https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/package_stm_index.json
 从工具中进去，找开发板---开发板管理器，
 还要确定端口，也是在菜单工具栏中选择。
-文章：
-https://www.yiboard.com/thread-689-1-1.html
+如果更换开发芯片，如从原来的stm32l476，想更成esp8266芯片。需要更改附加开发板管理器网址。还要更改开发板管理器，蛮啰嗦的。 
+参考文章：https://www.yiboard.com/thread-689-1-1.html
